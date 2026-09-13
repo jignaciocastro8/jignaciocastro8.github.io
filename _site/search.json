@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Javier Castro",
+    "section": "",
+    "text": "Hi! I am PhD student in Mathematics at TU Berlin. My supervisor is Prof. Benjamin Gess.\nMy research lies at the interface between scientific machine learning, numerical analysis of PDEs, stochastic analysis, and optimization.\nDownload my CV\n\n\n\nScientific machine learning for nonlinear PDEs\nWeak-residual and thermodynamically informed neural methods\nNumerical approximation of PDEs and SDEs\nGauss–Newton and natural-gradient methods\nStochastic gradient dynamics and weak approximation"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Javier Castro",
+    "section": "",
+    "text": "Scientific machine learning for nonlinear PDEs\nWeak-residual and thermodynamically informed neural methods\nNumerical approximation of PDEs and SDEs\nGauss–Newton and natural-gradient methods\nStochastic gradient dynamics and weak approximation"
+  }
+]

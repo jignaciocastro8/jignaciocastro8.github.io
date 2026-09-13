@@ -1,0 +1,20 @@
+---
+title: "Javier Castro"
+---
+
+# Javier Castro
+
+Hi! I am PhD student in Mathematics at TU Berlin. My supervisor is Prof. Benjamin Gess.
+
+My research lies at the interface between scientific machine learning,
+numerical analysis of PDEs, stochastic analysis, and optimization.
+
+[Download my CV](cv.pdf){.btn .btn-primary}
+
+## Research interests
+
+- Scientific machine learning for nonlinear PDEs
+- Weak-residual and thermodynamically informed neural methods
+- Numerical approximation of PDEs and SDEs
+- Gauss–Newton and natural-gradient methods
+- Stochastic gradient dynamics and weak approximation

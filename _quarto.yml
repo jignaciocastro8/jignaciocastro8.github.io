@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Javier Castro"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: talks.qmd
+        text: Talks
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/jignaciocastro8
+      - icon: envelope
+        href: mailto:castro.medina@tu-berlin.de
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
