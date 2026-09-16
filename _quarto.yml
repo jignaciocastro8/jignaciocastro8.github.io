@@ -4,25 +4,41 @@ project:
 website:
   title: "Javier Castro"
   navbar:
+    pinned: true
+    collapse: true
+    background: "#ffffff"
+    foreground: "#17324d"
     left:
-      - href: index.qmd
-        text: Home
-      - href: research.qmd
-        text: Research
-      - href: publications.qmd
-        text: Publications
-      - href: talks.qmd
-        text: Talks
-      - href: cv.qmd
-        text: CV
+      - text: "Research"
+        href: "#research-interests"
+      - text: "Education"
+        href: "#education"
+      - text: "Publications"
+        href: "#publications"
+      - text: "Preprints"
+        href: "#preprints"
+      - text: "Talks"
+        href: "#talks"
+      - text: "Posters"
+        href: "#posters"
+      - text: "Awards"
+        href: "#awards"
     right:
-      - icon: github
-        href: https://github.com/jignaciocastro8
+      - icon: mortarboard-fill
+        href: "https://scholar.google.com/citations?user=45xod9sAAAAJ"
+        aria-label: "Google Scholar"
+        target: _blank
       - icon: envelope
-        href: mailto:castro.medina@tu-berlin.de
+        href: "mailto:castro.medina@tu-berlin.de"
+        aria-label: "Email Javier Castro"
+
+  page-footer:
+    left: "© 2026 Javier Castro"
+    right: "Built with Quarto"
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: false
+    smooth-scroll: true

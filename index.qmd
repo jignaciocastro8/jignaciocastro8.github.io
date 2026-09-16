@@ -4,17 +4,21 @@ title: "Javier Castro"
 
 # Javier Castro
 
-Hi! I am PhD student in Mathematics at TU Berlin. My supervisor is Prof. Benjamin Gess.
+Hi! I am PhD student in Mathematics at TU Berlin. My supervisor is Professor Benjamin Gess.
 
-My research lies at the interface between scientific machine learning,
-numerical analysis of PDEs, stochastic analysis, and optimization.
-
+My research lies at the interface between scientific machine learning and the numerical analysis of PDEs. I
+develop mathematically principled neural network methods for nonlinear PDEs, including thermodynamically
+informed neural networks and weak-residual formulations. In particular, I study how underlying stochastic
+particle systems can inform the design of structure-preserving loss functionals. As a complementary direction,
+I study curvature-aware optimization methods for the training of these methods, including Gauss-Newton
+and natural-gradient methods. A further line of my work concerns the continuous-time weak approximation
+of stochastic gradient dynamics, and weak approximation methods for SDEs
 [Download my CV](cv.pdf){.btn .btn-primary}
 
 ## Research interests
 
 - Scientific machine learning for nonlinear PDEs
 - Weak-residual and thermodynamically informed neural methods
-- Numerical approximation of PDEs and SDEs
 - Gauss–Newton and natural-gradient methods
 - Stochastic gradient dynamics and weak approximation
+- Numerical approximation of PDEs and SDEs
