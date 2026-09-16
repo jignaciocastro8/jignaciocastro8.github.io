@@ -79,3 +79,28 @@ a {
     padding-top: 1.5rem;
   }
 }
+
+.hero {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.profile-photo {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+@media (max-width: 700px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-photo {
+    width: 70px;
+    height: 70px;
+  }
+}
