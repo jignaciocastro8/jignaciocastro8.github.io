@@ -5,6 +5,12 @@ title-block-style: none
 
 <div class="hero">
 
+<div class="hero-photo">
+  <img src="images/me.jpeg"
+       alt="Portrait of Javier Castro"
+       class="profile-photo">
+</div>
+
 <div class="hero-content">
 PhD student in Mathematics at Technische Universität Berlin.
 

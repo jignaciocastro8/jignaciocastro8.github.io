@@ -7,13 +7,6 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Javier Castro",
-    "section": "",
-    "text": "PhD student in Mathematics at Technische Universität Berlin.\nMy research lies at the interface between scientific machine learning and the numerical analysis of PDEs. I develop mathematically principled neural network methods for nonlinear PDEs, including thermodynamically informed neural networks and weak-residual formulations.\n\nEmail · Google Scholar · Download CV"
-  },
-  {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Javier Castro",
@@ -61,12 +54,5 @@
     "title": "Javier Castro",
     "section": "Awards",
     "text": "Awards\n\nJorge Billeke Award for Academic Excellence in Mathematics · 2023\nChilean Mathematical Society (SOMACHI) — National distinction for outstanding academic achievement in Mathematics and Mathematical Engineering, awarded for my Master’s thesis."
-  },
-  {
-    "objectID": "index.html#javier-castro",
-    "href": "index.html#javier-castro",
-    "title": "Javier Castro",
-    "section": "",
-    "text": "PhD student in Mathematics at Technische Universität Berlin.\nMy research lies at the interface between scientific machine learning and the numerical analysis of PDEs. I develop mathematically principled neural network methods for nonlinear PDEs, including thermodynamically informed neural networks and weak-residual formulations.\n\nEmail · Google Scholar · Download CV"
   }
 ]
