@@ -1,24 +1,85 @@
 ---
 title: "Javier Castro"
+title-block-style: none
 ---
 
-# Javier Castro
+<div class="hero">
 
-Hi! I am PhD student in Mathematics at TU Berlin. My supervisor is Professor Benjamin Gess.
+<div class="hero-content">
+PhD student in Mathematics at Technische Universität Berlin.
 
-My research lies at the interface between scientific machine learning and the numerical analysis of PDEs. I
-develop mathematically principled neural network methods for nonlinear PDEs, including thermodynamically
-informed neural networks and weak-residual formulations. In particular, I study how underlying stochastic
-particle systems can inform the design of structure-preserving loss functionals. As a complementary direction,
-I study curvature-aware optimization methods for the training of these methods, including Gauss-Newton
-and natural-gradient methods. A further line of my work concerns the continuous-time weak approximation
-of stochastic gradient dynamics, and weak approximation methods for SDEs
-[Download my CV](cv.pdf){.btn .btn-primary}
+My research lies at the interface between scientific machine learning and the numerical analysis of PDEs. I develop mathematically principled neural network methods for nonlinear PDEs, including thermodynamically informed neural networks and weak-residual formulations.
 
-## Research interests
+<div class="hero-links">
 
-- Scientific machine learning for nonlinear PDEs
-- Weak-residual and thermodynamically informed neural methods
-- Gauss–Newton and natural-gradient methods
-- Stochastic gradient dynamics and weak approximation
-- Numerical approximation of PDEs and SDEs
+[Email](mailto:castro.medina@tu-berlin.de) · [Google Scholar](https://scholar.google.com/citations?user=45xod9sAAAAJ) · [Download CV](cv.pdf){.btn .btn-primary}
+
+</div>
+
+</div>
+
+</div>
+
+## Research interests {#research-interests}
+
+In particular, I study how underlying stochastic particle systems can inform the design of structure-preserving loss functionals. As a complementary direction, I study curvature-aware optimization methods for the training of these methods, including Gauss-Newton and natural-gradient methods. A further line of my work concerns the continuous-time weak approximation of stochastic gradient dynamics, and weak approximation methods for SDEs.
+
+## Education {#education}
+
+### Technische Universität Berlin
+
+**PhD in Mathematics**, member of the ERC project FluCo  
+Berlin, Germany · 2022–2027  
+Advisor: Prof. Benjamin Gess. Expected completion: March 2027.
+
+### Universidad de Chile
+
+**MSc in Applied Mathematics**  
+Santiago, Chile · 2020–2022  
+Advisor: Prof. Claudio Muñoz. Thesis: *Description of local and nonlocal equations using Deep Learning techniques.*
+
+## Publications {#publications}
+
+1. **Javier Castro, Claudio Muñoz, Nicolás Valenzuela.** *The Calderón's Problem via DeepONets.* Vietnam Journal of Mathematics, 52, 775–806, 2024. [DOI](https://doi.org/10.1007/s10013-023-00676-8).
+
+2. **Javier Castro.** *The Kolmogorov Infinite Dimensional Equation in a Hilbert Space via Deep Learning Methods.* Journal of Mathematical Analysis and Applications, 527(2), Article 127413, 2023. [DOI](https://doi.org/10.1016/j.jmaa.2023.127413).
+
+3. **Javier Castro.** *Deep Learning Schemes for Parabolic Nonlocal Integro-Differential Equations.* Partial Differential Equations and Applications, 3, Article 77, 2022. [DOI](https://doi.org/10.1007/s42985-022-00213-z).
+
+## Preprints {#preprints}
+
+1. **Javier Castro, Benjamin Gess.** *THINNs: Thermodynamically Informed Neural Networks.* arXiv preprint, 2025. [arXiv](https://arxiv.org/abs/2509.19467).
+
+## Selected talks {#talks}
+
+### THINNs: Thermodynamically Informed Neural Networks
+
+SIAM Conference on Optimization, Edinburgh, United Kingdom · **2026**
+
+### The Calderón's Problem via DeepONets
+
+PDE Seminar, Universidad de Chile, Santiago, Chile · **2023**
+
+### The Kolmogorov Infinite Dimensional Equation via Deep Learning Methods
+
+Jornadas Matemáticas de la Zona Sur, Universidad de Los Lagos, Chile · **2022**
+
+### Deep Learning Schemes for Parabolic Nonlocal Integro-Differential Equations
+
+Jornadas Matemáticas de la Zona Sur, Universidad de La Frontera, Chile · **2021**
+
+## Selected posters {#posters}
+
+### THINNs: Thermodynamically Informed Neural Networks
+
+Foundations of Computational Mathematics (FoCM), Vienna, Austria · **2026**
+
+### THINNs: Thermodynamically Informed Neural Networks
+
+Mathematics of Machine Learning, Hamburg University of Technology, Hamburg, Germany · **2025**
+
+## Awards {#awards}
+
+### Jorge Billeke Award for Academic Excellence in Mathematics · 2023
+
+Chilean Mathematical Society (SOMACHI) — National distinction for outstanding academic achievement in Mathematics and Mathematical Engineering, awarded for my Master's thesis.
